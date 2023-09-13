@@ -2,6 +2,9 @@
 
 Box-Shadow Generator is a user-friendly web application that empowers you to easily create and customize CSS box shadows for your web elements. With this tool, you can generate the perfect box shadow to enhance the visual appeal of your website components.
 
+![mohamedsalem401 github io_Box-Shadow-Generator_](https://github.com/mohamedsalem401/Box-Shadow-Generator/assets/67981832/77ccf486-4002-49fd-98d1-924f8c24bc50)
+![mohamedsalem401 github io_Box-Shadow-Generator_ (1)](https://github.com/mohamedsalem401/Box-Shadow-Generator/assets/67981832/08805767-0abd-4bf1-90ed-f6132c7dcfba)
+
 ### Usage
 
 1. Clone the repository:
