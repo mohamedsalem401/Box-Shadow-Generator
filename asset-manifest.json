@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Ultimate-Case-Converter/static/css/main.b70b2db0.css",
-    "main.js": "/Ultimate-Case-Converter/static/js/main.329de9ad.js",
-    "index.html": "/Ultimate-Case-Converter/index.html",
-    "main.b70b2db0.css.map": "/Ultimate-Case-Converter/static/css/main.b70b2db0.css.map",
-    "main.329de9ad.js.map": "/Ultimate-Case-Converter/static/js/main.329de9ad.js.map"
+    "main.css": "/Box-Shadow-Generator/static/css/main.b70b2db0.css",
+    "main.js": "/Box-Shadow-Generator/static/js/main.329de9ad.js",
+    "index.html": "/Box-Shadow-Generator/index.html",
+    "main.b70b2db0.css.map": "/Box-Shadow-Generator/static/css/main.b70b2db0.css.map",
+    "main.329de9ad.js.map": "/Box-Shadow-Generator/static/js/main.329de9ad.js.map"
   },
   "entrypoints": [
     "static/css/main.b70b2db0.css",
